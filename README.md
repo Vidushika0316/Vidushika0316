@@ -6,8 +6,8 @@
   <a href="https://github.com/Vidushika0316/Vidushika0316">
     <img src="https://komarev.com/ghpvc/?username=Vidushika0316" alt="page views" />
   </a>
-  <a href="https://stackoverflow.com/users/15264820/vidushika-dasanayka">
-    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/4868262?color=orange&label=reputation&logo=stackoverflow">
+  <a href="https://stackoverflow.com/users/15264820">
+    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/15264820?color=orange&label=reputation&logo=stackoverflow">
   </a>
   <a href="https://github.com/Vidushika0316?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/Vidushika0316?color=green&logo=github">
