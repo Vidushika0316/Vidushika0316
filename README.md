@@ -31,7 +31,7 @@
 
 - 📫 How to reach me **vidushika.officail@gmail.com**
 
-- ⚡ Fun fact **I'm interested indancing and make memories in each seconds of my life**
+- ⚡ Fun fact **I'm interested in dancing and make memories in each seconds of my life**
 
 <br>
 
