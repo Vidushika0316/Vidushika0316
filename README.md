@@ -21,7 +21,7 @@
  
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Ecommerce Website](https://github.com/Vidushika0316/Ecommerce-mern)**
+- 🔭 I’m currently working on **[Portfolio Website](https://github.com/Vidushika0316/My-Portfolio-Website.git)**
 
 - 🌱 I’m currently learning **Programming**
 
