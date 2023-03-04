@@ -80,7 +80,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/vidushika-dasanayaka/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/Vidu76118729"><img src="https://twitter.com/vidushika_d"/></a>
+<a href = "https://twitter.com/vidushika_d"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/codewith_vi/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.facebook.com/vidu.dasanayaka.7"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
 
